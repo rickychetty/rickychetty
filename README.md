@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **rickychettysocial@gmail.com**
+
 - Social Media Handles:
 
 - LinkedIn: <a href="https://www.linkedin.com/in/rickychetty">@rickychetty</a>
