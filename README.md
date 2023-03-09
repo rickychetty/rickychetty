@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rickychettysocial@gmail.com**
 
-- Social Media Handles:
+<h3>Social Media Handles</h3>
 
 - LinkedIn: <a href="https://www.linkedin.com/in/rickychetty">@rickychetty</a>
 - Instagram: <a href="https://www.instagram.com/rickchetty">@rickchetty</a>
